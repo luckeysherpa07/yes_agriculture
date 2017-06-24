@@ -1,0 +1,2890 @@
+{
+  "settings": {
+    "currentPage": "index.html",
+    "name": "My Site",
+    "theme": {
+      "name": "mobirise3",
+      "title": "Mobirise 3",
+      "styling": {
+        "primaryColor": "#d14841",
+        "secondaryColor": "#f28281",
+        "successColor": "#90a878",
+        "infoColor": "#7e9b9f",
+        "warningColor": "#f3c649",
+        "dangerColor": "#f28281",
+        "titleFont": "Montserrat",
+        "subtitleFont": "Lora",
+        "textFont": "Raleway",
+        "isRoundedButtons": true,
+        "isAnimatedOnScroll": true,
+        "isScrollToTopButton": true,
+        "isRtl": true
+      }
+    },
+    "versionFirst": "3.12.1",
+    "uniqCompNum": 102,
+    "versionPublish": "3.12.1",
+    "path": "@PROJECT_PATH@"
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": "",
+        "order": 1
+      },
+      "components": [
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header2",
+          "_styles": {
+            ".mbr-section-title": {
+              "font-size": "20px"
+            },
+            ".mbr-section-text": {
+              "font-size": "14px"
+            },
+            ".btn": {
+              "font-size": "10px"
+            }
+          },
+          "_anchor": "header2-e",
+          "_params": {
+            "imageSize": "51",
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/yes%20bagroudn-2000x1500.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.4",
+            "overlayColor": "#000",
+            "inverse": true,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showArrow": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/ag1-1400x1050.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header2",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "&nbsp;“Youth Endeavour for Sustainable Agriculture”",
+          "text": "This organization is persistent, successor, unified, dignified,    autonomous, non-profitable, non-political, non-governmental social organization.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"index.html#form1-h\" data-toolbar=\"-mbrBtnMove\">CONTACT US</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "DIV": {
+              "text-align": "left"
+            }
+          },
+          "_anchor": "content1-n",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#91eda5"
+          },
+          "text": "<h1><b>About Us &nbsp;</b></h1><div><p>This organization is non-political, non-governmental, purely social organization.<span style=\"font-size: 1.07rem; line-height: 1.5;\">This organization is non-profit and welfare oriented.&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">Organize campaigns, training, seminars, workshop, group discussion, etc. on sustainable agriculture, organic farming, IPM, integrated nutrient management and others relevant issues for students as well as farmers&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">Conduct program about climate change, unwanted use of chemicalfertilizer among farmers.&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">Act as bridging agents between research institute, agriculture campus and farmers.&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">Endeavor to change existing agriculture system into commercialization.</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">Aim at increasing farmers’ living standard, provide training on Agriculture technology and professional skill development..&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">For agriculture development, initiate to improve the relationship among working Governmental, Non-governmental, National, different international institution, institute and farmer group, farmers.&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">Conduct programs and seminars about the importance and need of agriculture education among students in different schools and college.&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">&nbsp;Identify the farmers’ problem and solve them.</span></p></div><div>Provide loan, knowledge and technology to motivate the farmers towards agri-based domestic industries by utilizing agricultural raw products.&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">Promote unity within the members so that leadership development and skill will be prioritized.&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">Generate sustainability in agriculture through involvement of youth agriculturist..&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">Organize extension program involving agriculture and veterinary students, teachers in support with government office (DADO and DLSO).&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">To encourage youth involvement in agriculture sector, etc.....</span></div><div><br></div>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery1",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": 0,
+            "images": [
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/bike-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/bike.jpg",
+                "caption": "Type caption here",
+                "active": true
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/code-man-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Creative",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/coworkers-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/coworkers.jpg",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/desktop-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/desktop.jpg",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/room-laptop-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Beautiful",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/table-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/table.jpg",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/windows-books-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/working-area-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/working-area.jpg",
+                "caption": "Type caption here"
+              }
+            ],
+            "spacing": "0",
+            "showText": false,
+            "filter": false,
+            "bgColor": "#faaf40",
+            "filterBgColor": false,
+            "fullWidth": false,
+            "showBullets": true
+          },
+          "_anchor": "gallery1-22",
+          "articleLayout": false,
+          "allItem": "All"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "testimonials2",
+          "_styles": {
+            ".card-footer > small": {
+              "color": "#000000"
+            },
+            ".mbr-section-subtitle": {
+              "color": "#2969b0"
+            },
+            ".card-block DIV": {
+              "text-align": "left"
+            },
+            ".card-block": {
+              "text-align": "left"
+            }
+          },
+          "testimonial": [
+            {
+              "text": "You alone need not have to be a roadmap when you are around of leading and disciplined minds and thankfully, i have them .I have been responding  as a president of this particular organizationsince the very date, I was selected to lead it. With lots of good experiences, now I see how my responsibilities are inspiriting me from so inside. This is a platform for sharing, putting and executing agricultural ideas in the level you can with the assistance of the agriculture and veterinary related governmental, non-governmental organizations of Rupendehi district, those who believe on your work and team spirit. What we learn, we try to imitate it in our performance being in so close with farmers with a hope of giving and gaining knowledge. We have 6 different wings(viz; youth innovation, literature, waste management, ICT, plant clinic and veterinary)  to engage and work upon. Although,Most of our work is related with extension of agricultural technologies. Nation building is a huge step and here we youth endeavour to be it's part.<br>&nbsp;Email : upadhayaykhemraj@gmail.com<br>",
+              "media": {
+                "image": {
+                  "src": "@PROJECT_PATH@/assets/images/khem-copy-160x158.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true,
+                  "link": "",
+                  "alt": "",
+                  "title": "",
+                  "linkInNewWindow": false
+                }
+              },
+              "authorName": "Khem Raj Upadhyaya",
+              "authorBio": "Precident"
+            },
+            {
+              "text": "&nbsp;I am the student of Agriculture Science at IAAS, Paklihawa Campus. I have been associated with YES-Agriculture as a Youth-Innovation wing coordinator since 2014 and currnetly involved as a Vice-President for YES-Agriculture. Besides YES Agriculture, I am involved in youth-agriculture activism as Program  Officer of YPARD Nepal.<br>Email : saileshsigdel@gmail.com<br>LinkedIn: linkedin.com/in/saileshsigdel",
+              "media": {
+                "image": {
+                  "src": "@PROJECT_PATH@/assets/images/sailesh-160x136.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true,
+                  "link": "",
+                  "alt": "",
+                  "title": "",
+                  "linkInNewWindow": false
+                }
+              },
+              "authorName": "Sailesh Sigdel",
+              "authorBio": "Vice-President"
+            },
+            {
+              "text": "Not always, any of the organizationdevolutes for other’s sake without seeing the gain it wonder to make but here,always we have “YES AGRICULTURE” with skillfully working hands that endeavours to pass the tradition of giving skills and ideas to farmers reachable, creating wonderful collaboration with DLSO and DADO especially. I am documenting discussions, executing plans, running programmes and making proposals since a year ahead and now it sounds fine if i say i am in midst of good minds, with handful of talented farmers, and awe-inspiring experiences that has traced my path toward my career. We can’t give up on person we are becoming and thankfully it is the organization and members under it’s umbrella for I can think who i am and what i can be.<br>Email: agroanupama851@gmail.com",
+              "media": {
+                "image": {
+                  "src": "@PROJECT_PATH@/assets/images/anupama-copy-160x160.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true,
+                  "link": "",
+                  "alt": "",
+                  "title": "",
+                  "linkInNewWindow": false
+                }
+              },
+              "authorName": "Anupama Aryal",
+              "authorBio": "Secretary"
+            },
+            {
+              "text": "Entirely non-political, non-profitable, and welfare oriented non-governmental social organization “YES Agriculture” is working in the field of agriculture and veterinary at student and farmers level by organizing different training, campaigns, workshops, group discussions etc. Being vice- secretary, main responsibilities are arranging meeting, running ensured meeting effectively, maintaining records, upholding legal concerns, communicating with members. “YES “Agriculture provides a platform for skill development and chance to expose in farmers’ field, makes me patience, optimistic, valiant, responsive, respectful and conscientious. It has changed my skill, attitude and behavior.<br>Email: bipinkarki50@gmail.com",
+              "media": {
+                "image": {
+                  "src": "@PROJECT_PATH@/assets/images/bipin-karki-149x160.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true,
+                  "link": "",
+                  "alt": "",
+                  "title": "",
+                  "linkInNewWindow": false
+                }
+              },
+              "authorName": "Bipin Karki",
+              "authorBio": "Vice-Secretary"
+            },
+            {
+              "text": "With the coordinated efforts of student and experts, YES Agriculture is conducting various programme in farmers and students level in the field of their expertise engrossing youth mind to achieve its prime ettle of sustainable agriculture;” grow sustain, live sustain” I have been working as treasurer since 2016 and handling all the financial transaction and related issues. Throughout the tenure, my experience addresses that YES agriculture is becoming a golden platform for hundreds of young agriculturist and veterinarian to unmask their hidden talents and also a roadmap for local farmers, who are out of reach of extension services.<br>Email: ojharenu1996@gmail.com",
+              "media": {
+                "image": {
+                  "src": "@PROJECT_PATH@/assets/images/renu-copy-160x160.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true,
+                  "link": "",
+                  "alt": "",
+                  "title": "",
+                  "linkInNewWindow": false
+                }
+              },
+              "authorName": "Renu Ojha",
+              "authorBio": " Treasurer"
+            }
+          ],
+          "_anchor": "testimonials2-g",
+          "_params": {
+            "count": "5",
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "showImages": true,
+            "showName": true,
+            "showBio": true,
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1502.jpg",
+            "bgColor": "#41a85f",
+            "bgColorRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.2,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showSubtitle": true
+          },
+          "title": "Our Members&nbsp;",
+          "subtitle": "\"Youths for Developnment\""
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "form1",
+          "_styles": {
+            ".form-control-label": {
+              "color": "#232323"
+            },
+            ".btn": {
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
+            }
+          },
+          "_anchor": "form1-h",
+          "_params": {
+            "labelsColor": "#232323",
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/yes%20agriculture-2000x1246.jpg",
+            "bgColor": "#f8c77f",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showSubTitle": true
+          },
+          "title": "CONTACT US",
+          "subtitle": "&nbsp;Please fill the form below to contact us we will here u soon &nbsp;",
+          "form": {
+            "action": "nitcnp@gmail.com",
+            "alerts": {
+              "success": "Thanks for contacting us we will response  you as soon as possibe..."
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": true,
+                "customTitle": "Name*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": true,
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">SUBMIT</a>"
+        },
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
+              "font-family": "'Lato', sans-serif"
+            },
+            ".link": {
+              "font-size": "0.95rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "1.029rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#3574bb"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#4886cc!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#548ecf"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#d14841!important"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-l",
+          "_params": {
+            "bgColor": "#548ecf",
+            "fontSize": "0.95",
+            "fontName": {
+              "name": "Lato",
+              "url": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
+              "css": "'Lato', sans-serif"
+            },
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": true,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/youth-endeavour-logo-png-01-135x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "http://yesagriculture.org/",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "linkInNewWindow": false,
+              "name": "mobirise",
+              "family": "MobiriseIcons",
+              "link": "http://yesagriculture.org/",
+              "size": 0,
+              "newWindow": false
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"http://yesagriculture.org/\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">YES Agriculture</a>",
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Board Members .html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\" target=\"_blank\"><span class=\"mbri-users mbr-iconfont mbr-iconfont-btn\"></span>Working Committe</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Board Members .html\" target=\"_blank\">Board Members</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Plant Clinic Wing.html\" target=\"_blank\">Plant Clinic Wing</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ICT wings .html\" target=\"_blank\">ICT Wing</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Literrature and Cultural Wings.html\" target=\"_blank\">Literature and Cultural Wing</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Waste Management Wing.html\" target=\"_blank\">Waste Management Wing</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Youth Innovation Wings .html\" target=\"_blank\">Youth Innovation Wing</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Veterinary Wings .html\" target=\"_blank\">Veterinary Wing</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#gallery1-22\"><span class=\"mbri-image-gallery mbr-iconfont mbr-iconfont-btn\"></span>Gallery</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#content1-n\"><span class=\"mbri-edit mbr-iconfont mbr-iconfont-btn\"></span>About Us</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-h\"><span class=\"mbri-letter mbr-iconfont mbr-iconfont-btn\"></span>Contact Us</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#social-buttons4-m\"><span class=\"mbri-devices mbr-iconfont mbr-iconfont-btn\"></span>Find Us </a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-h\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts2",
+          "_styles": {
+            "STRONG": {
+              "color": "#ffffff",
+              "text-align": "right",
+              "font-size": "24px"
+            },
+            "B": {
+              "text-align": "left"
+            },
+            "P": {
+              "text-align": "center"
+            },
+            "UL": {
+              "color": "#b8312f"
+            }
+          },
+          "_anchor": "contacts2-p",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#f8c77f",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C",
+            "googleMap": {
+              "address": "Siddharthanagar, Rupandehi, Mid-Western Development Region\n",
+              "placeId": "ChIJ2YTK1z-aljkRb2xxRqH9pLw",
+              "state": "ok",
+              "stateDetails": ""
+            }
+          },
+          "text1": "<strong>Address</strong><br>Paklihawa -02, Siddarthanagar municipality, Rupandehi district<br><span style=\"font-size: 0.875rem; line-height: 1.5;\"><br></span><b><br></b><span style=\"font-size: 0.875rem; line-height: 1.5;\">Email: yesagriculture.2013@gmail.com</span><br><span style=\"font-size: 0.875rem; line-height: 1.5;\"><br></span><br><span style=\"font-size: 0.875rem; line-height: 1.5;\"><br></span><br><br>",
+          "text2": ""
+        },
+        {
+          "_inherit": "social-buttons2",
+          "_styles": {
+            ".mbr-section-title, .btn-social": {
+              "color": "#fff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons4",
+          "_anchor": "social-buttons4-m",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/landscape3.jpg",
+            "bgColor": "#e8bc75",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222"
+          },
+          "text": "",
+          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" href=\"index.html#social-buttons4-m\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/Youth-Endeavour-for-Sustainable-Agriculture-YES-Agriculture-353632958070017/timeline/?ref=br_tf\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Google+\" href=\"index.html#social-buttons4-m\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-googleplus\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" href=\"index.html#social-buttons4-m\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-youtube\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" href=\"index.html#social-buttons4-m\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-instagram\"></i></a>      "
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-q",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgColor": "#e8bc75"
+          },
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"http://www.nitcnp.com/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Developed by NITC</a>"
+        }
+      ]
+    },
+    "ICT wings .html": {
+      "settings": {
+        "title": "ICT wings Members ",
+        "meta_descr": "ICT "
+      },
+      "components": [
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "testimonials1",
+          "_styles": {
+            ".card-block DIV": {
+              "text-align": "center"
+            },
+            ".card-block P": {
+              "font-size": "13px"
+            },
+            ".card-block": {
+              "color": "#565656"
+            }
+          },
+          "testimonial": [
+            {
+              "text": "My job is associated with the flow of information about programs,<div>events and publishing reports and posts in our official webpage and</div><div><span style=\"font-size: 1.125rem; line-height: 2;\">facebook page. In this tenure, I’m learning more about technical stuffs like</span><span style=\"font-size: 1.125rem; line-height: 2;\">social networking, blogpost writing and publishing which has immense</span><br></div><div>importance nowdays. Also, being a part of this organization, I got an</div><div><span style=\"font-size: 1.125rem; line-height: 2;\">opportunity to utilize my academic knowledge and disseminate it to farmers.<br></span>Email : aditi.sarkar2069@gmail.com</div>",
+              "media": {
+                "image": {
+                  "src": "@PROJECT_PATH@/assets/images/aditi-sarkar-copy-160x160.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true,
+                  "link": "",
+                  "alt": "",
+                  "title": "",
+                  "linkInNewWindow": false
+                }
+              },
+              "authorName": "Aditi Sarkar",
+              "authorBio": "Coordinator"
+            },
+            {
+              "text": "&nbsp;It is my immense pleasure to become a part of organization working in the agricultural sector endeavor to change existing agriculture system into commercialization through training on Agriculture technology and professional skill development. I got an opportunity to interact with the local farmers through the help of different programs conducted by this organization which ultimately helped to shape my personality, education.I am assured that this organization will play greater role in transforming agricultural system in the days to come.",
+              "media": {
+                "image": {
+                  "src": "@PROJECT_PATH@/assets/images/anjan-dhungana-copy-160x160.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true,
+                  "link": "",
+                  "alt": "",
+                  "title": "",
+                  "linkInNewWindow": false
+                }
+              },
+              "authorName": "Anjan Dhungana",
+              "authorBio": "Vice coordinator "
+            },
+            {
+              "text": "It was  a great privilege working as the member of ICT wing of this organization. I have learned so much and truly have enjoyed the experience of participating in various programs conducted by wings. As a member of ICT wing,flowing the information about the activities of organization through the medium of internet or any other ways was my work and i am very thankful for providing me such opportunity.<div>Email : panthisusmita004@gmail.com</div>",
+              "media": {
+                "image": {
+                  "src": "@PROJECT_PATH@/assets/images/sushmita-panthi-copy-160x160.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true,
+                  "link": "",
+                  "alt": "",
+                  "title": "",
+                  "linkInNewWindow": false
+                }
+              },
+              "authorName": "Sushmita Panthi",
+              "authorBio": "Member"
+            },
+            {
+              "text": "Having the opportunity to become part of YES Agriculture which is devoted to transform new agricultural practices and technology to the end users in order to uplift their socioeconomic life has proven to be an invaluable experience for me in my life. I found fantastic learning and personality uplifting environment while working as an ICT wing member .In YES Agriculture.  I am assured that this organization continues its effort to extend need-based practices and technology to the end users in the days to come.<div>Email : Kushalbhattarai30@gmail.com</div>",
+              "media": {
+                "image": {
+                  "src": "@PROJECT_PATH@/assets/images/kushal-bhattarai-copy-160x160.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true,
+                  "link": "",
+                  "alt": "",
+                  "title": "",
+                  "linkInNewWindow": false
+                }
+              },
+              "authorName": "Kushal Bhattarai",
+              "authorBio": "Member&nbsp;"
+            },
+            {
+              "text": "I am working as an ICT Wing member. I have been assisting Yes Agriculture by conducting, promoting, participating and organizing various on fields and outfield programs. After linking with this organization, I think I had grabbed more practical knowledge and improved a skill to deal with farmers and the circumstances. Thanks to YES Agriculture for such a great opportunity. &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Email: dineshghimire01@gmail.com",
+              "media": {
+                "image": {
+                  "src": "@PROJECT_PATH@/assets/images/dinesh-ghimire-160x160.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true,
+                  "link": "",
+                  "alt": "",
+                  "title": "",
+                  "linkInNewWindow": false
+                }
+              },
+              "authorName": "Dinesh Ghimire",
+              "authorBio": "Member"
+            }
+          ],
+          "_anchor": "testimonials1-15",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "0",
+            "count": "5",
+            "showImages": true,
+            "showName": true,
+            "showBio": true,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/landscape2.jpg",
+            "bgColor": "#e7d0ae",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showSubtitle": true
+          },
+          "title": "ICT Wing Members",
+          "subtitle": "\"Youths for Developnment\""
+        },
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
+              "font-family": "'Lato', sans-serif"
+            },
+            ".link": {
+              "font-size": "0.95rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "1.029rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#3574bb"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#4886cc!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#548ecf"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#d14841!important"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-13",
+          "_params": {
+            "bgColor": "#548ecf",
+            "fontSize": "0.95",
+            "fontName": {
+              "name": "Lato",
+              "url": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
+              "css": "'Lato', sans-serif"
+            },
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": true,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/youth-endeavour-logo-png-01-135x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "http://yesagriculture.org/",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "linkInNewWindow": false,
+              "name": "mobirise",
+              "family": "MobiriseIcons",
+              "link": "http://yesagriculture.org/",
+              "size": 0,
+              "newWindow": false
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"http://yesagriculture.org/\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">YES Agriculture</a>",
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Board Members .html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\" target=\"_blank\"><span class=\"mbri-users mbr-iconfont mbr-iconfont-btn\"></span>Working Committe</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Board Members .html\" target=\"_blank\">Board Members</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Plant Clinic Wing.html\" target=\"_blank\">Plant Clinic Wing</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ICT wings .html\" target=\"_blank\">ICT Wing</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Literrature and Cultural Wings.html\" target=\"_blank\">Literature and Cultural Wing</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Waste Management Wing.html\" target=\"_blank\">Waste Management Wing</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Youth Innovation Wings .html\" target=\"_blank\">Youth Innovation Wing</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Veterinary Wings .html\" target=\"_blank\">Veterinary Wing</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#gallery1-22\"><span class=\"mbri-image-gallery mbr-iconfont mbr-iconfont-btn\"></span>Gallery</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#content1-n\"><span class=\"mbri-edit mbr-iconfont mbr-iconfont-btn\"></span>About Us</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-h\"><span class=\"mbri-letter mbr-iconfont mbr-iconfont-btn\"></span>Contact Us</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#social-buttons4-m\"><span class=\"mbri-devices mbr-iconfont mbr-iconfont-btn\"></span>Find Us </a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-h\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts2",
+          "_styles": {
+            "STRONG": {
+              "color": "#ffffff",
+              "text-align": "right",
+              "font-size": "24px"
+            },
+            "B": {
+              "text-align": "left"
+            },
+            "P": {
+              "text-align": "center"
+            },
+            "UL": {
+              "color": "#b8312f"
+            }
+          },
+          "_anchor": "contacts2-14",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#f8c77f",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C",
+            "googleMap": {
+              "address": "Siddharthanagar, Rupandehi, Mid-Western Development Region\n",
+              "placeId": "ChIJ2YTK1z-aljkRb2xxRqH9pLw",
+              "state": "ok",
+              "stateDetails": ""
+            }
+          },
+          "text1": "<strong>Address</strong><br>Paklihawa -02, Siddarthanagar municipality, Rupandehi district<br><span style=\"font-size: 0.875rem; line-height: 1.5;\"><br></span><b><br></b><span style=\"font-size: 0.875rem; line-height: 1.5;\">Email: yesagriculture.2013@gmail.com</span><br><span style=\"font-size: 0.875rem; line-height: 1.5;\"><br></span><br><span style=\"font-size: 0.875rem; line-height: 1.5;\"><br></span><br><br>",
+          "text2": ""
+        },
+        {
+          "_inherit": "social-buttons2",
+          "_styles": {
+            ".mbr-section-title, .btn-social": {
+              "color": "#fff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons4",
+          "_anchor": "social-buttons4-26",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/landscape3.jpg",
+            "bgColor": "#e8bc75",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222"
+          },
+          "text": "",
+          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" href=\"ICT wings .html#social-buttons4-26\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/Youth-Endeavour-for-Sustainable-Agriculture-YES-Agriculture-353632958070017/timeline/?ref=br_tf\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Google+\" href=\"ICT wings .html#social-buttons4-26\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-googleplus\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" href=\"ICT wings .html#social-buttons4-26\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-youtube\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" href=\"ICT wings .html#social-buttons4-26\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-instagram\"></i></a>      "
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-2l",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgColor": "#e8bc75"
+          },
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"http://www.nitcnp.com/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Developed By NITC</a>"
+        }
+      ]
+    },
+    "Board Members .html": {
+      "settings": {
+        "title": "NITC",
+        "meta_descr": "www.nitcnp.com"
+      },
+      "components": [
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "testimonials1",
+          "testimonial": [
+            {
+              "text": "Working as a board member of YES Agriculture and as supervisor of “Waste Management” wing, I have found myself changing into an active and responsible youth leading somewhat to agricultural development. This organization has also helped me to develop leadership in myself and also a platform to explore our ideas and thoughts.<div>&nbsp;Email: archanapaudel053@gmail.com</div>",
+              "media": {
+                "image": {
+                  "src": "@PROJECT_PATH@/assets/images/archana-paudel-copy-160x160.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true,
+                  "link": "",
+                  "alt": "",
+                  "title": "",
+                  "linkInNewWindow": false
+                }
+              },
+              "authorName": "Archana Paudel",
+              "authorBio": ""
+            },
+            {
+              "text": "Being a part of YES as a board member, I looked after Youth innovation wing and coordinated program accordingly. YES, stands as an immense platform for my personality development. Through my entire board tenure, I conducted “Jigyasa Leadership session4” in coordination with Sanosansar Initiative and participated in other agriculture program as well. Must say whatever I achieved in a year I owe it to YES. khanalashmita31@gmail.com",
+              "media": {
+                "image": {
+                  "src": "@PROJECT_PATH@/assets/images/ashmita-khanal-copy-160x160.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true,
+                  "link": "",
+                  "alt": "",
+                  "title": "",
+                  "linkInNewWindow": false
+                }
+              },
+              "authorName": "Ashmita Khanal",
+              "authorBio": ""
+            },
+            {
+              "text": "Working as a Board member under Veterinary wing, I have participated and conducted the veterinary related programmes under my wing. What I achieved from Yes Agriculture is a great platform. YES, provided us to explore our practical knowledge and learnt a lot about personality development. I would like to thank heartily Yes family for providing me such golden opportunity. gyawaliaashish808@gmail.com",
+              "media": {
+                "image": {
+                  "src": "@PROJECT_PATH@/assets/images/aashish-gyawali-copy-160x160.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true,
+                  "link": "",
+                  "alt": "",
+                  "title": "",
+                  "linkInNewWindow": false
+                }
+              },
+              "authorName": "Aashish Gyawali",
+              "authorBio": ""
+            },
+            {
+              "text": "It's already been a year since I am involved in Yes Agriculture as a board member and I am supervising “Waste management “ Wing. My involvement here has evolved me to be a more confident person. Together we have conducted various programs on agriculture and youth empowerment and hope we will perform even better in future.<div>&nbsp; &nbsp; &nbsp; &nbsp;manbi.bijaya@gmail.com</div>",
+              "media": {
+                "image": {
+                  "src": "@PROJECT_PATH@/assets/images/bijaya-gahatraj-copy-160x160.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true,
+                  "link": "",
+                  "alt": "",
+                  "title": "",
+                  "linkInNewWindow": false
+                }
+              },
+              "authorName": "Bijaya Gahatraj",
+              "authorBio": ""
+            },
+            {
+              "text": "Being selected as a board member of YES, was a golden path towards variety of opportunities to learn and explore things. I was assigned to look after plant clinic wing and it was a new experience. It was great pleasure to meet farmers from this campus vicinity and share our ideas and discuss to resolve the existing issues in the very field of agriculture. dibyabhatta18@gmail.com",
+              "media": {
+                "image": {
+                  "src": "@PROJECT_PATH@/assets/images/dibya-bhatta-copy-160x160.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true,
+                  "link": "",
+                  "alt": "",
+                  "title": "",
+                  "linkInNewWindow": false
+                }
+              },
+              "authorName": "Dibya Bhatta",
+              "authorBio": ""
+            },
+            {
+              "text": "Being a board member of “YES Agriculture” I am supervising ICT wing of this organization. It was a huge platform and a great opportunity to deal with the existing agriculture related problems among the farm people around the campus vicinity through different coordinated programs conducted by YES.<span style=\"font-size: 1.125rem; line-height: 2;\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; lakshmipandey031@gmail.com</span>",
+              "media": {
+                "image": {
+                  "src": "@PROJECT_PATH@/assets/images/lakshmi-pandey-copy-160x160.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true,
+                  "link": "",
+                  "alt": "",
+                  "title": "",
+                  "linkInNewWindow": false
+                }
+              },
+              "authorName": "Lakshmi Pandey",
+              "authorBio": ""
+            },
+            {
+              "text": "Walking couple of year along with YES AGRICULTURE, it’s proved to be a mega stage for exploring the things that I barely knew.  With every programs conducted by this non- profitable organization, it pushes me closer towards farmers and has given me enough exposure Agriculture seems very easy when your plough is pen but in reality you are miles away from real problems encountered in field. This organization has helped me to widen my concept on agriculture. bhattaraimanoj54@gmail.com",
+              "media": {
+                "image": {
+                  "src": "@PROJECT_PATH@/assets/images/manoj-bhattarai-copy-160x160.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true,
+                  "link": "",
+                  "alt": "",
+                  "title": "",
+                  "linkInNewWindow": false
+                }
+              },
+              "authorName": "Manoj Bhattarai",
+              "authorBio": ""
+            },
+            {
+              "text": "Being a board member, I am primarily linked up with the plant clinic wing and involved in other agricultural programs. Certainly, YES agriculture is providing us a platform to bring new innovations and programs with the coordinated efforts of students as well as experts. pramila_tuitui@yahoo.com",
+              "media": {
+                "image": {
+                  "src": "@PROJECT_PATH@/assets/images/pramila-tuitui-copy-160x160.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true,
+                  "link": "",
+                  "alt": "",
+                  "title": "",
+                  "linkInNewWindow": false
+                }
+              },
+              "authorName": "Pramila Tuitui",
+              "authorBio": ""
+            },
+            {
+              "text": "As a board member I am looking after Culture and Literature wing. There are certain things you can only learn through doing and experiences. Working in a team towards a common goal has been a totally new experiences for me and I thank YES for providing me with this opportunity. The team has always energized me to keep exploring. iaaspratima28@gmail.com",
+              "media": {
+                "image": {
+                  "src": "@PROJECT_PATH@/assets/images/pratima-subedi-copy-160x160.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true,
+                  "link": "",
+                  "alt": "",
+                  "title": "",
+                  "linkInNewWindow": false
+                }
+              },
+              "authorName": "Pratima subedi",
+              "authorBio": ""
+            },
+            {
+              "text": "Working as a Board member of “YES Agriculture” has been a matter of pride and a great experience that I am acquiring these days. I have been assigned to mobilise ICT Wing and also involved in overall conduct of the different programmes under this organisation.I have discovered lots of changes in myself regarding my personality and skills development. Holding different programmes in farmer’s level provides a fortune to &nbsp;understand real motif of agriculture. shrijan00752@gmail.com",
+              "media": {
+                "image": {
+                  "src": "@PROJECT_PATH@/assets/images/shrijan-bajracharya-copy-160x160.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true,
+                  "link": "",
+                  "alt": "",
+                  "title": "",
+                  "linkInNewWindow": false
+                }
+              },
+              "authorName": "Shrijan Bajracharya",
+              "authorBio": ""
+            },
+            {
+              "text": "<p>With the coordinated efforts of student and experts, YES Agriculture is conducting various programme in farmers and students level in the field of their expertise engrossing youth mind to achieve its prime ettle of sustainable agriculture;” grow sustain, live sustain” I have been working as treasurer since 2016 and handling all the financial   transaction and related issues. Throughout the tenure, my experience addresses that YES agriculture is becoming a golden platform for hundreds of young agriculturist and veterinarian to unmask their hidden talents and also a roadmap for local farmers, who are out of reach of extension services</p><p><span style=\"font-size: 1.125rem; line-height: 2;\">ojharenu1996@gmail.com</span></p>",
+              "media": {
+                "image": {
+                  "src": "@PROJECT_PATH@/assets/images/renu-ojha-copy-160x160.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true,
+                  "link": "",
+                  "alt": "",
+                  "title": "",
+                  "linkInNewWindow": false
+                }
+              },
+              "authorName": "Renu Ojha",
+              "authorBio": "Treasurer"
+            },
+            {
+              "text": "<p>Not always, any of the organization devolutes for other’s sake without seeing the gain it wonder to make but here, always we have “YES AGRICULTURE” with skillfully working hands that endeavours to pass the tradition of giving skills and ideas to farmers reachable, creating wonderful collaboration with DLSO and DADO especially. I am documenting discussions, executing plans, running programmes and making proposals since a year ahead and now it sounds fine if i say i am in midst of good minds, with handful of talented farmers, and awe-inspiring experiences that has traced my path toward my career. We can’t give up on person we are becoming and thankfully it is the organization and members under it’s umbrella for I can think who i am and what i can be</p><p>agroanupama851@gmail.com</p>",
+              "media": {
+                "image": {
+                  "src": "@PROJECT_PATH@/assets/images/anupama-aryal-copy-160x160.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true,
+                  "link": "",
+                  "alt": "",
+                  "title": "",
+                  "linkInNewWindow": false
+                }
+              },
+              "authorName": "Anupama Aryal",
+              "authorBio": "Secretary"
+            }
+          ],
+          "_anchor": "testimonials1-1d",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": 3,
+            "count": "12",
+            "showImages": true,
+            "showName": true,
+            "showBio": true,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/landscape2.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showSubtitle": true
+          },
+          "title": "Board Members",
+          "subtitle": "Besides vital five members, we have ten board member from both Agriculture and veterinary stream working actively for the conduct of various programmes. With the concept effective mobilisation of manpower, we have, they are assigned to supervise different wing as per their field of interest and also involve in other programmes. They are acting as a bridging channel between wing committee and vital five committees."
+        },
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
+              "font-family": "'Lato', sans-serif"
+            },
+            ".link": {
+              "font-size": "0.95rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "1.029rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#3574bb"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#4886cc!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#548ecf"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#d14841!important"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-1b",
+          "_params": {
+            "bgColor": "#548ecf",
+            "fontSize": "0.95",
+            "fontName": {
+              "name": "Lato",
+              "url": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
+              "css": "'Lato', sans-serif"
+            },
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": true,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/youth-endeavour-logo-png-01-135x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "http://yesagriculture.org/",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "linkInNewWindow": false,
+              "name": "mobirise",
+              "family": "MobiriseIcons",
+              "link": "http://yesagriculture.org/",
+              "size": 0,
+              "newWindow": false
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"http://yesagriculture.org/\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">YES Agriculture</a>",
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Board Members .html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\" target=\"_blank\"><span class=\"mbri-users mbr-iconfont mbr-iconfont-btn\"></span>Working Committe</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Board Members .html\" target=\"_blank\">Board Members</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Plant Clinic Wing.html\" target=\"_blank\">Plant Clinic Wing</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ICT wings .html\" target=\"_blank\">ICT Wing</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Literrature and Cultural Wings.html\" target=\"_blank\">Literature and Cultural Wing</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Waste Management Wing.html\" target=\"_blank\">Waste Management Wing</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Youth Innovation Wings .html\" target=\"_blank\">Youth Innovation Wing</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Veterinary Wings .html\" target=\"_blank\">Veterinary Wing</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#gallery1-22\"><span class=\"mbri-image-gallery mbr-iconfont mbr-iconfont-btn\"></span>Gallery</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#content1-n\"><span class=\"mbri-edit mbr-iconfont mbr-iconfont-btn\"></span>About Us</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-h\"><span class=\"mbri-letter mbr-iconfont mbr-iconfont-btn\"></span>Contact Us</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#social-buttons4-m\"><span class=\"mbri-devices mbr-iconfont mbr-iconfont-btn\"></span>Find Us </a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-h\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts2",
+          "_styles": {
+            "STRONG": {
+              "color": "#ffffff",
+              "text-align": "right",
+              "font-size": "24px"
+            },
+            "B": {
+              "text-align": "left"
+            },
+            "P": {
+              "text-align": "center"
+            },
+            "UL": {
+              "color": "#b8312f"
+            }
+          },
+          "_anchor": "contacts2-1c",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#f8c77f",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C",
+            "googleMap": {
+              "address": "Siddharthanagar, Rupandehi, Mid-Western Development Region\n",
+              "placeId": "ChIJ2YTK1z-aljkRb2xxRqH9pLw",
+              "state": "ok",
+              "stateDetails": ""
+            }
+          },
+          "text1": "<strong>Address</strong><br>Paklihawa -02, Siddarthanagar municipality, Rupandehi district<br><span style=\"font-size: 0.875rem; line-height: 1.5;\"><br></span><b><br></b><span style=\"font-size: 0.875rem; line-height: 1.5;\">Email: yesagriculture.2013@gmail.com</span><br><span style=\"font-size: 0.875rem; line-height: 1.5;\"><br></span><br><span style=\"font-size: 0.875rem; line-height: 1.5;\"><br></span><br><br>",
+          "text2": ""
+        },
+        {
+          "_inherit": "social-buttons2",
+          "_styles": {
+            ".mbr-section-title, .btn-social": {
+              "color": "#fff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons4",
+          "_anchor": "social-buttons4-28",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/landscape3.jpg",
+            "bgColor": "#e8bc75",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222"
+          },
+          "text": "",
+          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" href=\"Board Members .html#social-buttons4-28\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/Youth-Endeavour-for-Sustainable-Agriculture-YES-Agriculture-353632958070017/timeline/?ref=br_tf\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Google+\" href=\"Board Members .html#social-buttons4-28\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-googleplus\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" href=\"Board Members .html#social-buttons4-28\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-youtube\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" href=\"Board Members .html#social-buttons4-28\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-instagram\"></i></a>      "
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-2m",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgColor": "#e8bc75"
+          },
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"http://www.nitcnp.com/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Developed by NITC</a>"
+        }
+      ]
+    },
+    "Plant Clinic Wing.html": {
+      "settings": {
+        "title": "Plant Clinic Wing",
+        "meta_descr": "Plant Clinic Wing"
+      },
+      "components": [
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "testimonials1",
+          "_styles": {
+            ".mbr-section-subtitle": {
+              "font-family": "'PT Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans:400,700",
+              "text-align": "left"
+            }
+          },
+          "testimonial": [
+            {
+              "text": "<p>It was my privilege to work with such a noble organization since its establishment days. As working as a general member, vice-coordinator and currently as a coordinator, this organization have provided memultiple platforms for my personal development. I have been volunteering, attending, assisting and coordinating many programs.Being an agriculture student theoretical bookish knowledge is never enough and the interaction with farmers and realizing their actual field problems is necessary. Being working through this wing it has helped me and extend my knowledge more practically. I personally feel YES Agriculture with its enthusiast, ardent and creative minds have always been <span style=\"font-size: 1.125rem; line-height: 2;\">progressing<br></span>: Email<br>rabeen.reezal@gmail.com</p>",
+              "media": {
+                "image": {
+                  "src": "@PROJECT_PATH@/assets/images/rabin-rijal-copy-160x160.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true,
+                  "link": "",
+                  "alt": "",
+                  "title": "",
+                  "linkInNewWindow": false
+                }
+              },
+              "authorName": "Rabin Rijal&nbsp;",
+              "authorBio": "Coordinator"
+            },
+            {
+              "text": "<p>Email</p>",
+              "media": {
+                "image": {
+                  "src": "@PROJECT_PATH@/assets/images/sujan-thapa-copy-160x160.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true,
+                  "link": "",
+                  "alt": "",
+                  "title": "",
+                  "linkInNewWindow": false
+                }
+              },
+              "authorName": "Sujan Thapa",
+              "authorBio": "Vice Coordinator"
+            },
+            {
+              "text": "<p>Email</p>",
+              "media": {
+                "image": {
+                  "src": "@PROJECT_PATH@/assets/images/sita-jaishi-copy-160x160.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true,
+                  "link": "",
+                  "alt": "",
+                  "title": "",
+                  "linkInNewWindow": false
+                }
+              },
+              "authorName": "Sita Jaishi",
+              "authorBio": "Member"
+            },
+            {
+              "text": "<p>Email</p>",
+              "media": {
+                "image": {
+                  "src": "@PROJECT_PATH@/assets/images/purushottam-dhodhary-copy-160x160.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true,
+                  "link": "",
+                  "alt": "",
+                  "title": "",
+                  "linkInNewWindow": false
+                }
+              },
+              "authorName": "Purushottam Dhodhary &nbsp;",
+              "authorBio": "Developer"
+            },
+            {
+              "text": "<p>Email</p>",
+              "media": {
+                "image": {
+                  "src": "@PROJECT_PATH@/assets/images/sushmita-kunwar-copy-160x160.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true,
+                  "link": "",
+                  "alt": "",
+                  "title": "",
+                  "linkInNewWindow": false
+                }
+              },
+              "authorName": "Sushmita Kunwar&nbsp;",
+              "authorBio": "Member"
+            }
+          ],
+          "_anchor": "testimonials1-1r",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": 3,
+            "count": "5",
+            "showImages": true,
+            "showName": true,
+            "showBio": true,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/landscape2.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showSubtitle": true
+          },
+          "title": "Plant Clinic Wing",
+          "subtitle": "Plant clinic is basically a one roof spot where farmers seeking solution to their various problems related with cultivation are answered by local plant health extension officers known as “Plant Doctors”.The major aim of such clinic is to diagnose pests and diseases in crops and provide accurate knowledge to the farming communities.Agricultural sector is the pivotal point for enhancing economic growth,ensuring food security and reducing poverty, but in country like Nepal agricultural services are beyond the access of common farmers.Considering this different problems of farmers, YES Agriculture took an inception to start up Plant Clinic to provide an array of technological solutions to farmers more systematically,precisely and swiftly &nbsp; by integrating  multiple sectors linked with agricultural services<br><br>: &nbsp;Major Objectives of Plant Clinic Wing<br>&nbsp; . To diagnose the plant samples brought by the farmers for various entomological,pathological,nutritional,physiological and agronomic problems &nbsp;•&nbsp;<br>&nbsp;To provide technological solutions and remedial measures to the farmers proble &nbsp;•&nbsp;<br>.To suggest plant protection and plant production packages for different crop &nbsp;•&nbsp;<br>.To make field visit and extend the knowledge beyond books and provide practical training for undergraduate students during studies &nbsp;• <br><br>: Programs Launched by Plant Clinic Wing<br>&nbsp;As the initiation of Plant Clinic,the founder members of YES Agriculture under the presidentship of Mr.Dinesh Raj Pant and other founder members including Mr.ManojKadel,Mr. ArjunBatola,Mr. Om PrakashChaudhary, Mr. Ramesh Uprety and Miss PoonamSapkota conducted “PLANT CLINIC CAMPAIGN” &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<br>near the vicinity of IAAS  inMeudihawa,Rupandehi<br><br>&nbsp;After the grand success of the above campaign a separate wing, Plant Clinic Wingwas established under the coordinatorship of Mr.GauravBhattarai.Under his coordinatorship this program was extended to other areas of Rupandehi in Sainamaina Municipality along with Meudihawa,Rupandehi<br><br>There after under the co-ordinatorship of Mr. Rabin Rijalthisprogram was amended realizing the interrelationship of soil &amp; plants and soil test was also included along with plant clinic .“PLANT CLINIC AND SOIL TESTING CAMAPAIGN-2073” was conducted in Manpakadi-1,Babhanidanda,Rupandehi in &nbsp;January,2017 Forty nine plant samples along with 108 soil samples were tested&nbsp;<br>"
+        },
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
+              "font-family": "'Lato', sans-serif"
+            },
+            ".link": {
+              "font-size": "0.95rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "1.029rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#3574bb"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#4886cc!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#548ecf"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#d14841!important"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-1p",
+          "_params": {
+            "bgColor": "#548ecf",
+            "fontSize": "0.95",
+            "fontName": {
+              "name": "Lato",
+              "url": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
+              "css": "'Lato', sans-serif"
+            },
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": true,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/youth-endeavour-logo-png-01-135x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "http://yesagriculture.org/",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "linkInNewWindow": false,
+              "name": "mobirise",
+              "family": "MobiriseIcons",
+              "link": "http://yesagriculture.org/",
+              "size": 0,
+              "newWindow": false
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"http://yesagriculture.org/\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">YES Agriculture</a>",
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Board Members .html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\" target=\"_blank\"><span class=\"mbri-users mbr-iconfont mbr-iconfont-btn\"></span>Working Committe</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Board Members .html\" target=\"_blank\">Board Members</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Plant Clinic Wing.html\" target=\"_blank\">Plant Clinic Wing</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ICT wings .html\" target=\"_blank\">ICT Wing</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Literrature and Cultural Wings.html\" target=\"_blank\">Literature and Cultural Wing</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Waste Management Wing.html\" target=\"_blank\">Waste Management Wing</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Youth Innovation Wings .html\" target=\"_blank\">Youth Innovation Wing</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Veterinary Wings .html\" target=\"_blank\">Veterinary Wing</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#gallery1-22\"><span class=\"mbri-image-gallery mbr-iconfont mbr-iconfont-btn\"></span>Gallery</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#content1-n\"><span class=\"mbri-edit mbr-iconfont mbr-iconfont-btn\"></span>About Us</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-h\"><span class=\"mbri-letter mbr-iconfont mbr-iconfont-btn\"></span>Contact Us</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#social-buttons4-m\"><span class=\"mbri-devices mbr-iconfont mbr-iconfont-btn\"></span>Find Us </a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-h\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts2",
+          "_styles": {
+            "STRONG": {
+              "color": "#ffffff",
+              "text-align": "right",
+              "font-size": "24px"
+            },
+            "B": {
+              "text-align": "left"
+            },
+            "P": {
+              "text-align": "center"
+            },
+            "UL": {
+              "color": "#b8312f"
+            }
+          },
+          "_anchor": "contacts2-1q",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#f8c77f",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C",
+            "googleMap": {
+              "address": "Siddharthanagar, Rupandehi, Mid-Western Development Region\n",
+              "placeId": "ChIJ2YTK1z-aljkRb2xxRqH9pLw",
+              "state": "ok",
+              "stateDetails": ""
+            }
+          },
+          "text1": "<strong>Address</strong><br>Paklihawa -02, Siddarthanagar municipality, Rupandehi district<br><span style=\"font-size: 0.875rem; line-height: 1.5;\"><br></span><b><br></b><span style=\"font-size: 0.875rem; line-height: 1.5;\">Email: yesagriculture.2013@gmail.com</span><br><span style=\"font-size: 0.875rem; line-height: 1.5;\"><br></span><br><span style=\"font-size: 0.875rem; line-height: 1.5;\"><br></span><br><br>",
+          "text2": ""
+        },
+        {
+          "_inherit": "social-buttons2",
+          "_styles": {
+            ".mbr-section-title, .btn-social": {
+              "color": "#fff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons4",
+          "_anchor": "social-buttons4-2a",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/landscape3.jpg",
+            "bgColor": "#e8bc75",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222"
+          },
+          "text": "",
+          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" href=\"Plant Clinic Wing.html#social-buttons4-2a\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/Youth-Endeavour-for-Sustainable-Agriculture-YES-Agriculture-353632958070017/timeline/?ref=br_tf\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Google+\" href=\"Plant Clinic Wing.html#social-buttons4-2a\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-googleplus\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" href=\"Plant Clinic Wing.html#social-buttons4-2a\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-youtube\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" href=\"Plant Clinic Wing.html#social-buttons4-2a\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-instagram\"></i></a>      "
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-2n",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgColor": "#e8bc75"
+          },
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"http://www.nitcnp.com/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Developed By NITC</a>"
+        }
+      ]
+    },
+    "Youth Innovation Wings .html": {
+      "settings": {
+        "title": "Youth Innovation Wings ",
+        "meta_descr": "Youth Innovation Wings "
+      },
+      "components": [
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "testimonials1",
+          "testimonial": [
+            {
+              "text": "Email : shresthaankita20@gmail.com",
+              "media": {
+                "image": {
+                  "src": "@PROJECT_PATH@/assets/images/ankita-shrestha-copy-160x160.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true,
+                  "link": "",
+                  "alt": "",
+                  "title": "",
+                  "linkInNewWindow": false
+                }
+              },
+              "authorName": "Ankita Shrestha",
+              "authorBio": "Coordinator"
+            },
+            {
+              "text": "Email : ganeshbelbase02@gmail.com",
+              "media": {
+                "image": {
+                  "src": "@PROJECT_PATH@/assets/images/ganesh-belbase-copy-160x160.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true,
+                  "link": "",
+                  "alt": "",
+                  "title": "",
+                  "linkInNewWindow": false
+                }
+              },
+              "authorName": "&nbsp;Ganesh Belbase",
+              "authorBio": "Vice Coordinator&nbsp;"
+            },
+            {
+              "text": "<p>: Email</p><p>salumaharjan24@gmail.com</p>",
+              "media": {
+                "image": {
+                  "src": "@PROJECT_PATH@/assets/images/salu-maharjan-copy-160x160.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true,
+                  "link": "",
+                  "alt": "",
+                  "title": "",
+                  "linkInNewWindow": false
+                }
+              },
+              "authorName": "Salu Maharjan",
+              "authorBio": "Member&nbsp;"
+            },
+            {
+              "text": "<p>: Email</p><p>razevbth@gmail.com</p>",
+              "media": {
+                "image": {
+                  "src": "@PROJECT_PATH@/assets/images/rajeev-budathoki-copy-160x160.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true,
+                  "link": "",
+                  "alt": "",
+                  "title": "",
+                  "linkInNewWindow": false
+                }
+              },
+              "authorName": "Rajeev Budathoki&nbsp;",
+              "authorBio": "Member"
+            },
+            {
+              "text": "<p>: Email</p><p><span style=\"font-size: 1.125rem; line-height: 2;\">eshatiwari2016@gmail.com</span></p>",
+              "media": {
+                "image": {
+                  "src": "@PROJECT_PATH@/assets/images/isha-tiwari-copy-160x160.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true,
+                  "link": "",
+                  "alt": "",
+                  "title": "",
+                  "linkInNewWindow": false
+                }
+              },
+              "authorName": "Isha Tiwari",
+              "authorBio": "Member"
+            }
+          ],
+          "_anchor": "testimonials1-1x",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": 3,
+            "count": "5",
+            "showImages": true,
+            "showName": true,
+            "showBio": true,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/landscape2.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showSubtitle": true
+          },
+          "title": "Youth Innovation Wings&nbsp;",
+          "subtitle": "Youth for Endeavour and Sustainable Agriculture (YES Agriculture)  was established in 2069 B.S.( write full date here) by our founder and the very first president Mr. Dinesh Pant along with his friends. This organization was established with the motive of  bringing positive changes in the field of agriculture by youth itself. Hence youths are the main pillar of this organization. A new concept of wings was emerged and six wings were established in (write date here) which are : Youth Innovation, Plant Clinic, Waste Management, ICT, Literature and Veterinary Wings. <br>Youth Innovation Wing was initiated  to explore  youths power and ability. This wing focuses most of its programmes for youth welfare and boost up their confidence and their knowledge. On 12th  August i.e. on Youth International Day, our wing conducted an interaction programme with our honorable guests (Scientist, DADO and DLSO officers, Campus Chief, Professors, and so on). After new committee formation, I was bestowed with  the opportunity to be the co-ordinator of Youth Innovation wing to work for the welfare of youth in co-ordination with my Vice Co-ordinator and three members. Our committee has been publishing set of questions related to agriculture and veterinary science fortnightly  to give  some ideas about Lok Sewa questions to IAASians  and expand  their horizon of  knowledge since few months. We have also organized Basic Agroforestry Training with the help of Mr. Hari Gaire in Chiliya VDC with farmers. After our encouraging success in farmers field, we organized same program in our college IAAS and about 50 students  participated. The success of our every program is a sign of co-ordination and cordial relation among us hence I would like to express my heartfelt thanks to all the innovative minds and  helping hands for their support and believing on me. I wish the upcoming committee  a successful tenure and I am sure our committee will reach a new height owing to the dedication of its new innovative faces committee. Thank You!!!<br>"
+        },
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
+              "font-family": "'Lato', sans-serif"
+            },
+            ".link": {
+              "font-size": "0.95rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "1.029rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#3574bb"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#4886cc!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#548ecf"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#d14841!important"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-1v",
+          "_params": {
+            "bgColor": "#548ecf",
+            "fontSize": "0.95",
+            "fontName": {
+              "name": "Lato",
+              "url": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
+              "css": "'Lato', sans-serif"
+            },
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": true,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/youth-endeavour-logo-png-01-135x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "http://yesagriculture.org/",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "linkInNewWindow": false,
+              "name": "mobirise",
+              "family": "MobiriseIcons",
+              "link": "http://yesagriculture.org/",
+              "size": 0,
+              "newWindow": false
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"http://yesagriculture.org/\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">YES Agriculture</a>",
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Board Members .html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\" target=\"_blank\"><span class=\"mbri-users mbr-iconfont mbr-iconfont-btn\"></span>Working Committe</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Board Members .html\" target=\"_blank\">Board Members</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Plant Clinic Wing.html\" target=\"_blank\">Plant Clinic Wing</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ICT wings .html\" target=\"_blank\">ICT Wing</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Literrature and Cultural Wings.html\" target=\"_blank\">Literature and Cultural Wing</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Waste Management Wing.html\" target=\"_blank\">Waste Management Wing</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Youth Innovation Wings .html\" target=\"_blank\">Youth Innovation Wing</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Veterinary Wings .html\" target=\"_blank\">Veterinary Wing</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#gallery1-22\"><span class=\"mbri-image-gallery mbr-iconfont mbr-iconfont-btn\"></span>Gallery</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#content1-n\"><span class=\"mbri-edit mbr-iconfont mbr-iconfont-btn\"></span>About Us</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-h\"><span class=\"mbri-letter mbr-iconfont mbr-iconfont-btn\"></span>Contact Us</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#social-buttons4-m\"><span class=\"mbri-devices mbr-iconfont mbr-iconfont-btn\"></span>Find Us </a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-h\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts2",
+          "_styles": {
+            "STRONG": {
+              "color": "#ffffff",
+              "text-align": "right",
+              "font-size": "24px"
+            },
+            "B": {
+              "text-align": "left"
+            },
+            "P": {
+              "text-align": "center"
+            },
+            "UL": {
+              "color": "#b8312f"
+            }
+          },
+          "_anchor": "contacts2-1w",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#f8c77f",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C",
+            "googleMap": {
+              "address": "Siddharthanagar, Rupandehi, Mid-Western Development Region\n",
+              "placeId": "ChIJ2YTK1z-aljkRb2xxRqH9pLw",
+              "state": "ok",
+              "stateDetails": ""
+            }
+          },
+          "text1": "<strong>Address</strong><br>Paklihawa -02, Siddarthanagar municipality, Rupandehi district<br><span style=\"font-size: 0.875rem; line-height: 1.5;\"><br></span><b><br></b><span style=\"font-size: 0.875rem; line-height: 1.5;\">Email: yesagriculture.2013@gmail.com</span><br><span style=\"font-size: 0.875rem; line-height: 1.5;\"><br></span><br><span style=\"font-size: 0.875rem; line-height: 1.5;\"><br></span><br><br>",
+          "text2": ""
+        },
+        {
+          "_inherit": "social-buttons2",
+          "_styles": {
+            ".mbr-section-title, .btn-social": {
+              "color": "#fff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons4",
+          "_anchor": "social-buttons4-2b",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/landscape3.jpg",
+            "bgColor": "#e8bc75",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222"
+          },
+          "text": "",
+          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" href=\"Youth Innovation Wings .html#social-buttons4-2b\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/Youth-Endeavour-for-Sustainable-Agriculture-YES-Agriculture-353632958070017/timeline/?ref=br_tf\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Google+\" href=\"Youth Innovation Wings .html#social-buttons4-2b\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-googleplus\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" href=\"Youth Innovation Wings .html#social-buttons4-2b\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-youtube\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" href=\"Youth Innovation Wings .html#social-buttons4-2b\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-instagram\"></i></a>      "
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-2o",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgColor": "#e8bc75"
+          },
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"http://www.nitcnp.com/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Developed By NITC</a>"
+        }
+      ]
+    },
+    "Literrature and Cultural Wings.html": {
+      "settings": {
+        "title": "Literrature and Cultural Wings ",
+        "meta_descr": "Literrature and Cultural Wings "
+      },
+      "components": [
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "testimonials1",
+          "_styles": {
+            ".mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "testimonial": [
+            {
+              "text": "&nbsp;Literature is not only my field of interest but my passion. Working as       coordinator of Literature And Cultural Wing has been a matter of pride to myself as it has helped me to be a better version of myself. I believe, our wing has played a vital role in bringing art and literature lovers together for promoting co-operation and understanding among them.<br>Email:prabeg99@gmail.com<br>",
+              "media": {
+                "image": {
+                  "src": "@PROJECT_PATH@/assets/images/prabeg-acharya-copy-160x160.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true,
+                  "link": "",
+                  "alt": "",
+                  "title": "",
+                  "linkInNewWindow": false
+                }
+              },
+              "authorName": "Prabeg Acharya",
+              "authorBio": "&nbsp;Coordinator"
+            },
+            {
+              "text": "<p>: Email<br>pakhrinjenny1@gmail.com&nbsp;</p>",
+              "media": {
+                "image": {
+                  "src": "@PROJECT_PATH@/assets/images/jenny-pakhrin-copy-160x160.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true,
+                  "link": "",
+                  "alt": "",
+                  "title": "",
+                  "linkInNewWindow": false
+                }
+              },
+              "authorName": "Jenny Pakhrin",
+              "authorBio": "Vice Coordinator"
+            },
+            {
+              "text": "<p>: Email</p>",
+              "media": {
+                "image": {
+                  "src": "@PROJECT_PATH@/assets/images/anjan-nepal-copy-160x160.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true,
+                  "link": "",
+                  "alt": "",
+                  "title": "",
+                  "linkInNewWindow": false
+                }
+              },
+              "authorName": "Anjan Nepal",
+              "authorBio": "Member"
+            },
+            {
+              "text": "<p>: Email</p>",
+              "media": {
+                "image": {
+                  "src": "@PROJECT_PATH@/assets/images/srijana-bhattarai-copy-160x160.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true,
+                  "link": "",
+                  "alt": "",
+                  "title": "",
+                  "linkInNewWindow": false
+                }
+              },
+              "authorName": "Srijana Bhattarai",
+              "authorBio": "Member"
+            },
+            {
+              "text": "<p>: Email</p>",
+              "media": {
+                "image": {
+                  "src": "@PROJECT_PATH@/assets/images/binita-poudel-copy-160x160.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true,
+                  "link": "",
+                  "alt": "",
+                  "title": "",
+                  "linkInNewWindow": false
+                }
+              },
+              "authorName": "Binita Poudel",
+              "authorBio": "Member"
+            }
+          ],
+          "_anchor": "testimonials1-1o",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": 3,
+            "count": "5",
+            "showImages": true,
+            "showName": true,
+            "showBio": true,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/landscape2.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showSubtitle": true
+          },
+          "title": "Literrature and Cultural Wings&nbsp;",
+          "subtitle": "Youth Endeavour for Sustainable Agriculture (YES Agriculture) has been organizing various programs in the field of Veterinary and Agriculture since its establishment. Realising the   interest and utmost need of the students, Literature And Cultural Wing was established to provide a common platform for art and literature lovers to express their hidden talent.The primary objective of this wing is to emphasize the role of art and literature in agricultural awareness and extension programs.In the very first year of its establishment,Literature and Cultural Wing has organized various programs which we believe have assisted the agriculture and veterinary studying students  in one or the other way. The first program of the wing was“Khulla Rachana Wachan tatha Bidaai Karyakram” (Poetry Recitation  And Farewell Program) which  was certainly a huge success as more than thirty students of the campus had recited their poems and ghazals in the program.On the occasion of “World Environment Day-2016”, it had organized  “Khulla Baktitwakala Pratiyogita”(Free Speech Competition) entitled “Role of Agriculture and Veterinary In Wildlife Conservation”.Similarly,  the wing had organised a drama in Meudihawa village to make local people aware of fatal disease Rabies during “Anti-Rabies Campaign Week 2073-Second Edition” program organized by Veterinary wing of this organization. In collaberation with “Lisno Sahitya Samaj” , a literary group of University Of College of Medical Sciences(UCMS) , the wing had conducted “Khulla Gajal ra Kabita Wachan Karyakram”(Poetry Recitation Program) on the occasion of  Bhanu Jayanti in UCMS,Ranigaun.At present, the wing has been conducting a peculiar informal program “Chautareema Pratibha’’ where art and literature lovers of the campus gather together and recite poems, &nbsp; &nbsp; ghazals and sing songs.This program is being conducted in every fifteen days each time in a different chautaree<br>"
+        },
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
+              "font-family": "'Lato', sans-serif"
+            },
+            ".link": {
+              "font-size": "0.95rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "1.029rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#3574bb"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#4886cc!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#548ecf"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#d14841!important"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-1m",
+          "_params": {
+            "bgColor": "#548ecf",
+            "fontSize": "0.95",
+            "fontName": {
+              "name": "Lato",
+              "url": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
+              "css": "'Lato', sans-serif"
+            },
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": true,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/youth-endeavour-logo-png-01-135x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "http://yesagriculture.org/",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "linkInNewWindow": false,
+              "name": "mobirise",
+              "family": "MobiriseIcons",
+              "link": "http://yesagriculture.org/",
+              "size": 0,
+              "newWindow": false
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"http://yesagriculture.org/\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">YES Agriculture</a>",
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Board Members .html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\" target=\"_blank\"><span class=\"mbri-users mbr-iconfont mbr-iconfont-btn\"></span>Working Committe</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Board Members .html\" target=\"_blank\">Board Members</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Plant Clinic Wing.html\" target=\"_blank\">Plant Clinic Wing</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ICT wings .html\" target=\"_blank\">ICT Wing</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Literrature and Cultural Wings.html\" target=\"_blank\">Literature and Cultural Wing</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Waste Management Wing.html\" target=\"_blank\">Waste Management Wing</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Youth Innovation Wings .html\" target=\"_blank\">Youth Innovation Wing</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Veterinary Wings .html\" target=\"_blank\">Veterinary Wing</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#gallery1-22\"><span class=\"mbri-image-gallery mbr-iconfont mbr-iconfont-btn\"></span>Gallery</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#content1-n\"><span class=\"mbri-edit mbr-iconfont mbr-iconfont-btn\"></span>About Us</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-h\"><span class=\"mbri-letter mbr-iconfont mbr-iconfont-btn\"></span>Contact Us</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#social-buttons4-m\"><span class=\"mbri-devices mbr-iconfont mbr-iconfont-btn\"></span>Find Us </a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-h\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts2",
+          "_styles": {
+            "STRONG": {
+              "color": "#ffffff",
+              "text-align": "right",
+              "font-size": "24px"
+            },
+            "B": {
+              "text-align": "left"
+            },
+            "P": {
+              "text-align": "center"
+            },
+            "UL": {
+              "color": "#b8312f"
+            }
+          },
+          "_anchor": "contacts2-1n",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#f8c77f",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C",
+            "googleMap": {
+              "address": "Siddharthanagar, Rupandehi, Mid-Western Development Region\n",
+              "placeId": "ChIJ2YTK1z-aljkRb2xxRqH9pLw",
+              "state": "ok",
+              "stateDetails": ""
+            }
+          },
+          "text1": "<strong>Address</strong><br>Paklihawa -02, Siddarthanagar municipality, Rupandehi district<br><span style=\"font-size: 0.875rem; line-height: 1.5;\"><br></span><b><br></b><span style=\"font-size: 0.875rem; line-height: 1.5;\">Email: yesagriculture.2013@gmail.com</span><br><span style=\"font-size: 0.875rem; line-height: 1.5;\"><br></span><br><span style=\"font-size: 0.875rem; line-height: 1.5;\"><br></span><br><br>",
+          "text2": ""
+        },
+        {
+          "_inherit": "social-buttons2",
+          "_styles": {
+            ".mbr-section-title, .btn-social": {
+              "color": "#fff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons4",
+          "_anchor": "social-buttons4-2d",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/landscape3.jpg",
+            "bgColor": "#e8bc75",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222"
+          },
+          "text": "",
+          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" href=\"Literrature and Cultural Wings.html#social-buttons4-2d\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/Youth-Endeavour-for-Sustainable-Agriculture-YES-Agriculture-353632958070017/timeline/?ref=br_tf\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Google+\" href=\"Literrature and Cultural Wings.html#social-buttons4-2d\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-googleplus\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" href=\"Literrature and Cultural Wings.html#social-buttons4-2d\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-youtube\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" href=\"Literrature and Cultural Wings.html#social-buttons4-2d\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-instagram\"></i></a>      "
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-2k",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgColor": "#e8bc75"
+          },
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"http://www.nitcnp.com/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Developed By NITC</a>"
+        }
+      ]
+    },
+    "Veterinary Wings .html": {
+      "settings": {
+        "title": "Veterinary Wings ",
+        "meta_descr": "Veterinary Wings "
+      },
+      "components": [
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "testimonials1",
+          "_styles": {
+            ".mbr-section-subtitle": {
+              "font-family": "'Ubuntu', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700"
+            }
+          },
+          "testimonial": [
+            {
+              "text": "<p>: Email</p><p>bijaytiwari3@gmail.com</p>",
+              "media": {
+                "image": {
+                  "src": "@PROJECT_PATH@/assets/images/bijaya-tiwari-copy-160x160.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true,
+                  "link": "",
+                  "alt": "",
+                  "title": "",
+                  "linkInNewWindow": false
+                }
+              },
+              "authorName": "Bijaya Tiwari",
+              "authorBio": "Coordinator"
+            },
+            {
+              "text": "Email :&nbsp;<br>aavashres@live.com&nbsp;",
+              "media": {
+                "image": {
+                  "src": "@PROJECT_PATH@/assets/images/aavash-shrestha-copy-160x160.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true,
+                  "link": "",
+                  "alt": "",
+                  "title": "",
+                  "linkInNewWindow": false
+                }
+              },
+              "authorName": "Aavash Shrestha&nbsp;",
+              "authorBio": "Vice- Coordinator"
+            },
+            {
+              "text": "Email:&nbsp;<br>swochhal@gmail.com",
+              "media": {
+                "image": {
+                  "src": "@PROJECT_PATH@/assets/images/swochhal-prakash-shrestha-copy-160x160.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true,
+                  "link": "",
+                  "alt": "",
+                  "title": "",
+                  "linkInNewWindow": false
+                }
+              },
+              "authorName": "Swochhal Prakash Shrestha",
+              "authorBio": "Member&nbsp;"
+            },
+            {
+              "text": "bb",
+              "media": {
+                "image": {
+                  "src": "@PROJECT_PATH@/assets/images/binita-kunwar-copy-160x160.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true,
+                  "link": "",
+                  "alt": "",
+                  "title": "",
+                  "linkInNewWindow": false
+                }
+              },
+              "authorName": "Binita Kunwar",
+              "authorBio": "Member "
+            },
+            {
+              "text": "<p>nn</p>",
+              "media": {
+                "image": {
+                  "src": "@PROJECT_PATH@/assets/images/sambriddi-nepal-copy-160x160.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true,
+                  "link": "",
+                  "alt": "",
+                  "title": "",
+                  "linkInNewWindow": false
+                }
+              },
+              "authorName": "Sambriddi Nepal &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;",
+              "authorBio": "Member "
+            }
+          ],
+          "_anchor": "testimonials1-1u",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": 3,
+            "count": "5",
+            "showImages": true,
+            "showName": true,
+            "showBio": true,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/landscape2.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showSubtitle": true
+          },
+          "title": "Veterinary Wings&nbsp;",
+          "subtitle": "‘YES Agriculture’,  the name of the organization suggests that it is an organization working only in the field of agriculture but this very concept was proven wrong through the establishment of veterinary wing in this organization. IAAS is an old institute but the addition of veterinary faculty in this Paklihawa is very recent. Not one full fledge batch of veterinary students have passed out through IAAS, Paklihawa. In such scenario of developing faculty this wing was established to provide and assist the practical knowledge for the veterinary students. As the college was developing its very own veterinary faculty, this wing of the organization provided the helping hand in the development from the vaccination campaign (Rabies, PPR) to awareness campaign. Students have been directly benefited from the activities of this wing. It has provided a learning platform as well as a place to apply the theoretical knowledge gained into practice. When the college was lagging behind to organize such beneficiary programs for the students, the veterinary wing of this organization stepped up to take an initiation to organize host of programs. Not only the students but the farmers in the locality are also benefited by the works of this wing. Providing much needed awareness and all so essential vaccines to the local farmers for the betterment of their livestock. ‘YES agriculture’ has certainly left a lasting mark on the people around<br>"
+        },
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
+              "font-family": "'Lato', sans-serif"
+            },
+            ".link": {
+              "font-size": "0.95rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "1.029rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#3574bb"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#4886cc!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#548ecf"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#d14841!important"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-1s",
+          "_params": {
+            "bgColor": "#548ecf",
+            "fontSize": "0.95",
+            "fontName": {
+              "name": "Lato",
+              "url": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
+              "css": "'Lato', sans-serif"
+            },
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": true,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/youth-endeavour-logo-png-01-135x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "http://yesagriculture.org/",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "linkInNewWindow": false,
+              "name": "mobirise",
+              "family": "MobiriseIcons",
+              "link": "http://yesagriculture.org/",
+              "size": 0,
+              "newWindow": false
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"http://yesagriculture.org/\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">YES Agriculture</a>",
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Board Members .html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\" target=\"_blank\"><span class=\"mbri-users mbr-iconfont mbr-iconfont-btn\"></span>Working Committe</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Board Members .html\" target=\"_blank\">Board Members</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Plant Clinic Wing.html\" target=\"_blank\">Plant Clinic Wing</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ICT wings .html\" target=\"_blank\">ICT Wing</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Literrature and Cultural Wings.html\" target=\"_blank\">Literature and Cultural Wing</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Waste Management Wing.html\" target=\"_blank\">Waste Management Wing</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Youth Innovation Wings .html\" target=\"_blank\">Youth Innovation Wing</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Veterinary Wings .html\" target=\"_blank\">Veterinary Wing</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#gallery1-22\"><span class=\"mbri-image-gallery mbr-iconfont mbr-iconfont-btn\"></span>Gallery</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#content1-n\"><span class=\"mbri-edit mbr-iconfont mbr-iconfont-btn\"></span>About Us</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-h\"><span class=\"mbri-letter mbr-iconfont mbr-iconfont-btn\"></span>Contact Us</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#social-buttons4-m\"><span class=\"mbri-devices mbr-iconfont mbr-iconfont-btn\"></span>Find Us </a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-h\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts2",
+          "_styles": {
+            "STRONG": {
+              "color": "#ffffff",
+              "text-align": "right",
+              "font-size": "24px"
+            },
+            "B": {
+              "text-align": "left"
+            },
+            "P": {
+              "text-align": "center"
+            },
+            "UL": {
+              "color": "#b8312f"
+            }
+          },
+          "_anchor": "contacts2-1t",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#f8c77f",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C",
+            "googleMap": {
+              "address": "Siddharthanagar, Rupandehi, Mid-Western Development Region\n",
+              "placeId": "ChIJ2YTK1z-aljkRb2xxRqH9pLw",
+              "state": "ok",
+              "stateDetails": ""
+            }
+          },
+          "text1": "<strong>Address</strong><br>Paklihawa -02, Siddarthanagar municipality, Rupandehi district<br><span style=\"font-size: 0.875rem; line-height: 1.5;\"><br></span><b><br></b><span style=\"font-size: 0.875rem; line-height: 1.5;\">Email: yesagriculture.2013@gmail.com</span><br><span style=\"font-size: 0.875rem; line-height: 1.5;\"><br></span><br><span style=\"font-size: 0.875rem; line-height: 1.5;\"><br></span><br><br>",
+          "text2": ""
+        },
+        {
+          "_inherit": "social-buttons2",
+          "_styles": {
+            ".mbr-section-title, .btn-social": {
+              "color": "#fff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons4",
+          "_anchor": "social-buttons4-2e",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/landscape3.jpg",
+            "bgColor": "#e8bc75",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222"
+          },
+          "text": "",
+          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" href=\"Veterinary Wings .html#social-buttons4-2e\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/Youth-Endeavour-for-Sustainable-Agriculture-YES-Agriculture-353632958070017/timeline/?ref=br_tf\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Google+\" href=\"Veterinary Wings .html#social-buttons4-2e\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-googleplus\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" href=\"Veterinary Wings .html#social-buttons4-2e\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-youtube\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" href=\"Veterinary Wings .html#social-buttons4-2e\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-instagram\"></i></a>      "
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-2i",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgColor": "#e8bc75"
+          },
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"http://www.nitcnp.com/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Developed By NITC</a>"
+        }
+      ]
+    },
+    "Waste Management Wing.html": {
+      "settings": {
+        "title": "Waste Management Wing",
+        "meta_descr": "Waste Management Wing"
+      },
+      "components": [
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "testimonials1",
+          "testimonial": [
+            {
+              "text": "<p>The very experience, I gained being intact with Yes agriculture is worth, Being an active general member of YES Agriculture, I got a myriad of opportunities to participate in bunches of programs. Since 2014 I was endowed with responsibility of coordinating this Waste Management Wing. Coordinating, accompanying and attending many programs have brought many positive changes in my personal development</p>",
+              "media": {
+                "image": {
+                  "src": "@PROJECT_PATH@/assets/images/pramod-chaudhary-copy-160x160.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true,
+                  "link": "",
+                  "alt": "",
+                  "title": "",
+                  "linkInNewWindow": false
+                }
+              },
+              "authorName": "Pramod Chaudhary&nbsp;",
+              "authorBio": "Coordinator"
+            },
+            {
+              "text": "<p>Contact</p>",
+              "media": {
+                "image": {
+                  "src": "@PROJECT_PATH@/assets/images/rajiv-neupane-copy-160x160.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true,
+                  "link": "",
+                  "alt": "",
+                  "title": "",
+                  "linkInNewWindow": false
+                }
+              },
+              "authorName": "Rajiv Neupane&nbsp;",
+              "authorBio": "Vice-Coordinator"
+            },
+            {
+              "text": "<p>Contact</p>",
+              "media": {
+                "image": {
+                  "src": "@PROJECT_PATH@/assets/images/sauraj-parel-copy-160x160.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true,
+                  "link": "",
+                  "alt": "",
+                  "title": "",
+                  "linkInNewWindow": false
+                }
+              },
+              "authorName": "&nbsp;Sauraj Parel",
+              "authorBio": "Member"
+            },
+            {
+              "text": "Contact",
+              "media": {
+                "image": {
+                  "src": "@PROJECT_PATH@/assets/images/abinash-bhattarai-copy-160x160.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true,
+                  "link": "",
+                  "alt": "",
+                  "title": "",
+                  "linkInNewWindow": false
+                }
+              },
+              "authorName": "&nbsp;Abinash Bhattarai",
+              "authorBio": "Member"
+            },
+            {
+              "text": "<p>Contact</p>",
+              "media": {
+                "image": {
+                  "src": "@PROJECT_PATH@/assets/images/rachana-pandey-copy-160x160.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true,
+                  "link": "",
+                  "alt": "",
+                  "title": "",
+                  "linkInNewWindow": false
+                }
+              },
+              "authorName": "Rachana Pandey",
+              "authorBio": "Member"
+            }
+          ],
+          "_anchor": "testimonials1-21",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": 3,
+            "count": "5",
+            "showImages": true,
+            "showName": true,
+            "showBio": true,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/landscape2.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showSubtitle": true
+          },
+          "title": "Waste Management Wing",
+          "subtitle": "<p>Waste management is the process of treating solid waste that provides varieties of ways for reduce, reuse and recycle of those items which don’t belong to trash, and for this reason there has been the establishment of our wing \"Waste Management Wing\" which is involving the Youths in managing waste, their rational utilization and pollution minimization.  This wing helps in the judicious utilization of the waste material for the productive, educational purpose, pollution management and the diversity conservation of the college premises. Waste management wing collects waste products from college Canteens, premises and differentiate those waste products into degradable and non-degradable products. Those degradable products are utilized for vermicompost production and non-degradable wastage are reused, recycled and remaining wastage are dumped on proper site<br></p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts2",
+          "_styles": {
+            "STRONG": {
+              "color": "#ffffff",
+              "text-align": "right",
+              "font-size": "24px"
+            },
+            "B": {
+              "text-align": "left"
+            },
+            "P": {
+              "text-align": "center"
+            },
+            "UL": {
+              "color": "#b8312f"
+            }
+          },
+          "_anchor": "contacts2-20",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#f8c77f",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C",
+            "googleMap": {
+              "address": "Siddharthanagar, Rupandehi, Mid-Western Development Region\n",
+              "placeId": "ChIJ2YTK1z-aljkRb2xxRqH9pLw",
+              "state": "ok",
+              "stateDetails": ""
+            }
+          },
+          "text1": "<strong>Address</strong><br>Paklihawa -02, Siddarthanagar municipality, Rupandehi district<br><span style=\"font-size: 0.875rem; line-height: 1.5;\"><br></span><b><br></b><span style=\"font-size: 0.875rem; line-height: 1.5;\">Email: yesagriculture.2013@gmail.com</span><br><span style=\"font-size: 0.875rem; line-height: 1.5;\"><br></span><br><span style=\"font-size: 0.875rem; line-height: 1.5;\"><br></span><br><br>",
+          "text2": ""
+        },
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
+              "font-family": "'Lato', sans-serif"
+            },
+            ".link": {
+              "font-size": "0.95rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "1.029rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#3574bb"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#4886cc!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#548ecf"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#d14841!important"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-13",
+          "_params": {
+            "bgColor": "#548ecf",
+            "fontSize": "0.95",
+            "fontName": {
+              "name": "Lato",
+              "url": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
+              "css": "'Lato', sans-serif"
+            },
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": true,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/youth-endeavour-logo-png-01-135x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "http://yesagriculture.org/",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "linkInNewWindow": false,
+              "name": "mobirise",
+              "family": "MobiriseIcons",
+              "link": "http://yesagriculture.org/",
+              "size": 0,
+              "newWindow": false
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"http://yesagriculture.org/\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">YES Agriculture</a>",
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Board Members .html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\" target=\"_blank\"><span class=\"mbri-users mbr-iconfont mbr-iconfont-btn\"></span>Working Committe</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Board Members .html\" target=\"_blank\">Board Members</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Plant Clinic Wing.html\" target=\"_blank\">Plant Clinic Wing</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ICT wings .html\" target=\"_blank\">ICT Wing</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Literrature and Cultural Wings.html\" target=\"_blank\">Literature and Cultural Wing</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Waste Management Wing.html\" target=\"_blank\">Waste Management Wing</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Youth Innovation Wings .html\" target=\"_blank\">Youth Innovation Wing</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Veterinary Wings .html\" target=\"_blank\">Veterinary Wing</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#gallery1-22\"><span class=\"mbri-image-gallery mbr-iconfont mbr-iconfont-btn\"></span>Gallery</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#content1-n\"><span class=\"mbri-edit mbr-iconfont mbr-iconfont-btn\"></span>About Us</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-h\"><span class=\"mbri-letter mbr-iconfont mbr-iconfont-btn\"></span>Contact Us</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#social-buttons4-m\"><span class=\"mbri-devices mbr-iconfont mbr-iconfont-btn\"></span>Find Us </a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-h\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+        },
+        {
+          "_inherit": "social-buttons2",
+          "_styles": {
+            ".mbr-section-title, .btn-social": {
+              "color": "#fff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons4",
+          "_anchor": "social-buttons4-2f",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/landscape3.jpg",
+            "bgColor": "#e8bc75",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222"
+          },
+          "text": "",
+          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" href=\"Waste Management Wing.html#social-buttons4-2f\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/Youth-Endeavour-for-Sustainable-Agriculture-YES-Agriculture-353632958070017/timeline/?ref=br_tf\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Google+\" href=\"Waste Management Wing.html#social-buttons4-2f\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-googleplus\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" href=\"Waste Management Wing.html#social-buttons4-2f\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-youtube\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" href=\"Waste Management Wing.html#social-buttons4-2f\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-instagram\"></i></a>      "
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-2j",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgColor": "#e8bc75"
+          },
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"http://www.nitcnp.com/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Developed By NITC</a>"
+        }
+      ]
+    }
+  }
+}
